@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qiqistyle
-- 👀 I’m interested in c++ programe
+- 👀 I’m interested in c++ project
 - 🌱 I’m currently learning master degree
 - 💞️ I’m looking to collaborate on interest things
 - 📫 How to reach me 
